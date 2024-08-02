@@ -1,0 +1,50 @@
+
+.container_1 {
+    background-image: url('images/pen-4337521_1280.jpg');
+    background-size:cover ;
+    height: 50rem;
+    width: auto;
+    
+}
+
+.container_1_1 {
+    color: white;
+}
+
+.container_1_2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.jumbotronText {
+    color: white;
+    font-size: 2rem;
+    text-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 10rem 20rem 2rem 20rem;
+    text-align: center;
+}
+/* second section down from here!! */
+.container_2 {
+    height: 40rem;
+    width: auto;
+    margin: 2rem 20rem;
+    padding: 3rem ;
+}
+
+.iconImage {
+    height: auto;
+    width: 3rem;
+    margin-bottom: 2rem;
+}
+
+
+
+
+
+
+
+
